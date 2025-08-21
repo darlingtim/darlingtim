@@ -1,5 +1,5 @@
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=700&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Timothy+Ododo+(DarlingTim)!;IT+Support+Specialist+%7C+DevOps+Engineer+%7C+Full-Stack+Developer;Your+Partner+in+Innovation+and+Digital+Transformation;Building+reliable+solutions;Turning+ideas+into+impactful+products+%F0%9F%9A%80)](https://github.com/darlingtim)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=700&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Timothy+Ododo+(DarlingTim)!;An+IT+Support+Specialist;+%7C+DevOps+Engineer+%7C;+Full-Stack+Developer;Your+Partner+in+Innovation+and+Digital+Transformation;Building+reliable+solutions;Turning+ideas+into+impactful+products+%F0%9F%9A%80)](https://github.com/darlingtim)
 # 👋 Hi, I'm Timothy Ododo (DarlingTim)  
 
 💡 *Innovator | IT Support Specialist | DevOps Engineer | Full-Stack Developer | SDG Advocate*  
@@ -11,7 +11,8 @@ I’m passionate about using technology to **solve real-world problems**—from 
 ## 🚀 About Me  
 - 🔧 **Core Skills**: Leadership, IT Support, DevOps, Full-Stack Development (Node.js, Laravel, React, Python, Go Lang) , Cloud Infrastructure, Tutoring/Mentoring.
 
-- 🌍 **Founder**: ProTalento IT Consult & Solutions – SDGs focused IT firm, Driving innovation & digital transformation in Nigeria. 🔥 *“Your Partner in Innovation and Digital Transformation”*  
+- 🌍 **Founder**: ProTalento IT Consult & Solutions – SDGs focused IT firm, Driving innovation & digital transformation in Nigeria.
+ 🔥 *“Your Partner in Innovation and Digital Transformation”*  
 
 - 🎯 **Mission**: Leveraging tech in achieving the **SDGs** – Quality Education, Decent Work, governance, Strong Infrastructure, etc...
 
